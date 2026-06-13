@@ -1,4 +1,4 @@
-# Signature Verification on Bank Cheques to Reduce Fraud in Financial Institutions 
+# Signature Verification on Bank Cheques to Reduce Fraud in Financial Institutions
 
 A conceptual model to detect and verify signatures on bank cheques. 
 
