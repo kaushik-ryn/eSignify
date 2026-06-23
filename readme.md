@@ -1,6 +1,6 @@
 # Signature Verification on Bank Cheques to Reduce Fraud in Financial Institutions
 
-A conceptual model to detect and verify signatures on bank cheques. 
+A conceptual model to detect and verify signatures on bank cheques.
 
 
 Handwritten signatures are a common method for personal identification and authentication, especially on documents like bank cheques and legal papers. However, verifying a large number of signatures manually is both challenging and time-consuming. This highlights the need for a robust automatic signature verification tool to reduce fraud in financial transactions.
